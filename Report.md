@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The paper presents a situational analysis of antimicrobial resistance (AMR) in Kenya,examining the drivers of resistance, patterns of antimicrobial consumption and the status of policy implementation. It highlights how misuse of antibiotics in human health, animal health and agricultural production, together with weak diagnostics and surveillance gaps,have contributed to a fragmented AMR landscape in Kenya. Despite strong policy frameworks such as the National Action Plan (NAP) on AMR using a One Health approach,implementation challenges persist.
+The paper presents a situational analysis of antimicrobial resistance (AMR) in Kenya, examining the drivers of resistance, patterns of antimicrobial consumption, and the status of policy implementation. It highlights how misuse of antibiotics in human health, animal health, and agricultural production, together with weak diagnostics and surveillance gaps, have contributed to a fragmented AMR landscape in Kenya. Despite strong policy frameworks such as the National Action Plan (NAP) on AMR using a One Health approach, implementation challenges persist.
 
 ### Methodology
 
@@ -34,7 +34,7 @@ system.
 
 2. **Surveillance and Diagnostics**
 
-- Kenya reports to GLASS, but few sentinel sites and limited county-level coverage.
+- Kenya reports to GLASS, but has few sentinel sites and limited county-level coverage.
 - Many laboratories lack capacity for bacterial culture or AST, especially in rural settings.
 - Diagnostic delays lead to empiric broad-spectrum antibiotic use.
 
@@ -51,8 +51,8 @@ Only 8 counties have active stewardship committees.
 
 ### Implications
 
-- Kenya risks losing first-line antibiotics, leading to extended hospital stays, higher costs,and preventable deaths.
-- The One Health approach is promising but only effective with stronger enforcement,funding, and capacity building.
+- Kenya risks losing first-line antibiotics, leading to extended hospital stays, higher costs, and preventable deaths.
+- The One Health approach is promising but only effective with stronger enforcement, funding, and capacity building.
 - Without strengthened diagnostics, stewardship remains reactive rather than preventive.
 - Failure to regulate informal drug markets enables resistance to spread silently.
 
@@ -70,5 +70,3 @@ Only 8 counties have active stewardship committees.
 - Limited evidence from the animal and environmental sectors of One Health.
 - Few studies evaluating implementation success of stewardship programs.
 - Need for cost-effectiveness analyses of AMR interventions in Kenya.
-Blessings,
-Mercy W. KURIA
