@@ -1,4 +1,3 @@
-# Meeting Notes – 11th October 2025
 
 ## The Fragmented Picture of Antimicrobial Resistance in Kenya: A Situational Analysis of Antimicrobial Consumption and the Imperative for Antimicrobial Stewardship
 
